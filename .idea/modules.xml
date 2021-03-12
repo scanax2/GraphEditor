@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GraphEditor.iml" filepath="$PROJECT_DIR$/.idea/modules/GraphEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GraphEditor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GraphEditor.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GraphEditor.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GraphEditor.test.iml" />
+    </modules>
+  </component>
+</project>
